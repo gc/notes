@@ -1,6 +1,6 @@
 # Notes
 
-[Demo](https://gc-scorekeep.herokuapp.com/)
+[Demo](https://gc-notes.herokuapp.com/)
 
 - Meteor.js
 - ReactJS
