@@ -1,3 +1,11 @@
-# Boilerplate Meteor Project
+# Notes
 
-This includes a basic react and auth setup.
+[Demo](https://gc-scorekeep.herokuapp.com/)
+
+- Meteor.js
+- ReactJS
+- SCSS
+- Responsive/Mobile Friendly
+- MongoDB
+- Git Workflow
+- Heroku Deployment
